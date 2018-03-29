@@ -2,12 +2,17 @@
     "name": "gitbook-plugin-table-list",
     "description": "Catch table in page and show them as a list if mobile screen",
     "main": "index.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "gitbook": ">=3"
     },
     "license": "MIT",
     "dependencies": {
         "npm": "^5.8.0"
+    },
+    "homepage": "https://github.com/Goopil/gitbook-responsive-table",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Goopil/gitbook-responsive-table.git"
     }
 }
