@@ -2,7 +2,7 @@
     "name": "gitbook-plugin-table-list",
     "description": "Catch table in page and show them as a list if mobile screen",
     "main": "index.js",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "gitbook": ">=3"
     },
